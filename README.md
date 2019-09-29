@@ -1,2 +1,5 @@
 # portfolio_hw1
-# Unit 01 HTML, CSS, and Git Homework: Portfolio
+
+Created html files with stylized css similar in design to screenshots provided via the homework file.
+
+I stylized the pages with a different theme than what was provided, although the requirements are all there.
